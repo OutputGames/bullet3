@@ -40,3 +40,10 @@ CTestTestFile.cmake
 .vscode/
 .idea/
 cmake-build-debug/
+/.vs
+/lib
+*.obj
+*.tlog
+*.log
+*.recipe
+*.user
